@@ -13,6 +13,7 @@ object_classification_pipeline/
 ├── classifier_pipeline.py    # Core ML Inference Script
 ├── input_images/             # Raw Directory Input Signals
 └── output_results/           # Localized Object Bounding Box Outputs
+```
 
 🛠️ Local Execution
 Ensure your local deep learning dependencies are fully provisioned, then execute the structured batch execution matrix:
